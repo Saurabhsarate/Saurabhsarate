@@ -1,89 +1,78 @@
-<h1 align="center">Hey there! 👋 I'm Saurabh Sarate</h1>
-<h3 align="center">🚀 DevOps | ☁️ Cloud | 🔄 Automation Enthusiast</h3>
+# 👋 Hello, I'm Saurabh Sarate
+
+🚀 DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ Automation Aficionado
+
+I'm passionate about designing scalable systems, automating infrastructure, and exploring the depths of cloud-native technologies.  
+Always ready to collaborate, learn, and share knowledge with the community.
 
 ---
 
-## 👨‍💻 About Me
+## 🔍 Quick Facts
 
-I'm a **DevOps Engineer** who loves building scalable systems, automating workflows, and exploring cloud-native solutions.  
-Fueled by curiosity and collaboration, I enjoy tackling real-world challenges with cutting-edge technologies.
-
----
-
-## 🔧 Tech Stack & Tools
-
-<div align="center">
-  
-![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-
-</div>
+- 🧠 Always learning DevOps, Cloud, and Linux
+- 💼 Focused on Infrastructure as Code (IaC), CI/CD, and automation
+- ✍️ I write blogs & guides on GitBook and LinkedIn
+- 📍 Based in Pune, India
 
 ---
 
-## 📈 My GitHub Stats
+## 🌐 Connect with Me
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=saurabhsarate&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsarate&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+- [LinkedIn](https://www.linkedin.com/in/saurabh-sarate-6507a5230)
+- [Twitter (X)](https://x.com/saurabhsarate01?s=21)
+- 📫 Email: `saurabhsarate.work@gmail.com`
 
 ---
 
-## ✍️ My Blog Articles
+## 🛠️ DevOps & Cloud Toolkit
 
-- 🔗 [AWS EKS Setup Documentation](https://saurabhss.gitbook.io/saurabhss)
-- 🔗 [Digital Domination: IT Success Strategies](https://www.linkedin.com/posts/saurabh-sarate-6507a5230_the-pillars-of-success-activity-7186068851850108928-c0eb)
-- 🔗 [B2B IT Growth & Profitability](https://www.linkedin.com/posts/saurabh-sarate-6507a5230_activity-7163577638597320704-oqja)
+```bash
+Linux | AWS | Terraform | Ansible | Docker | Kubernetes | Jenkins
+Git | GitHub | CI/CD Pipelines | VS Code | Ubuntu | Bash Scripting
 
----
 
-## 💼 Featured Project
+📈 GitHub Stats
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=saurabhsarate&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" /> </td> <td> <img src="https://streak-stats.demolab.com/?user=saurabhsarate&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </td> </tr> </table>
 
-### 🎮 [Project Super Mario](https://github.com/your-user/project-super-mario)
-A throwback platformer built with HTML, CSS & JavaScript.
-
-**Highlights:**
-- Classic 2D gameplay  
-- Scoring, animation, and obstacles  
-- Fully browser-based fun  
-
----
-
-## 📌 Connect with Me
-
+🐍 Contribution Graph (Snake Style)
+<!-- Snake animation -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/saurabh-sarate-6507a5230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/saurabhsarate01?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=instagram" />
-  </a>
+  <img src="https://github.com/saurabhsarate/saurabhsarate/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
 </p>
 
+📊 Profile Metrics (Automated via GitHub Action)
+
+🚀 Featured Projects
+🎮 Super Mario - DevOps Edition
+Classic Mario game deployed with modern DevOps tooling.
+Tech Stack: Docker · Jenkins · AWS EC2 · NGINX · GitHub Actions
+🔗 GitHub Repo
+
+📚 Featured Blogs
+📘 AWS EKS Setup from Scratch
+
+🔍 Digital Domination in IT
+
+📊 Scaling B2B IT Profitably
+
+✨ Fun Facts
+🌌 I cycle at night to clear my head and reflect
+
+📖 I own 200+ books on psychology & philosophy
+
+🧩 I believe curiosity is the best teacher
+
+“The best way to predict the future is to invent it.” — Alan Kay
+
+
 ---
 
-## 🔄 Contribution Graph
+### ✅ Final Steps:
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabhsarate&theme=react-dark)
+1. Create a new GitHub repository: `saurabhsarate`
+2. Add a `README.md` file and paste this entire code
+3. Set up:
+   - 🐍 **Snake Graph**: [Instructions here](https://github.com/Platane/snk)
+   - 📊 **GitHub Metrics**: [Instructions here](https://github.com/lowlighter/metrics)
 
----
-
-> _“The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.”_  
-> — **Edsger W. Dijkstra**
-
+Let me know if you want me to help you set up GitHub Actions for the snake graph or metrics — I can give you that YAML code too.
