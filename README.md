@@ -16,6 +16,40 @@ Always ready to collaborate, learn, and share knowledge with the community.
 
 ---
 
+<!-- GitHub Profile README for Saurabh Sarate -->
+
+<h2>🛠️ Tools & Technologies:</h2>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" /><br>Linux</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" /><br>Terraform</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" /><br>Jenkins</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" /><br>Kubernetes</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" /><br>Ansible</td>
+    <td align="center"><img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="40" /><br>Ubuntu</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /><br>Git</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" /><br>Docker</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" /><br>GitHub</td>
+    <td align="center"><img src="https://code.visualstudio.com/assets/favicon.ico" width="40" /><br>VS Code</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" /><br>AWS</td>
+  </tr>
+</table>
+
+---
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+
+## 🙋‍♂️ About Me
+
+Hi, I'm **Saurabh Sarate**, a passionate DevOps enthusiast and Computer Engineering graduate (2024) from India.  
+Currently leveling up my skills through a DevOps course while actively building automation pipelines, scalable infra, and exploring cloud-native tools.
+
+💡 I enjoy learning from the environment, night cycling, and reading psychology & philosophy (📚 I own 200+ books!)  
+🤝 I believe in collaborating with brilliant minds and contributing to projects that make an impact.
+
+---
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/saurabh-sarate-6507a5230)
@@ -24,55 +58,37 @@ Always ready to collaborate, learn, and share knowledge with the community.
 
 ---
 
-## 🛠️ DevOps & Cloud Toolkit
+## 📊 GitHub Stats
 
-```bash
-Linux | AWS | Terraform | Ansible | Docker | Kubernetes | Jenkins
-Git | GitHub | CI/CD Pipelines | VS Code | Ubuntu | Bash Scripting
-
-
-📈 GitHub Stats
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=saurabhsarate&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats" /> </td> <td> <img src="https://streak-stats.demolab.com/?user=saurabhsarate&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </td> </tr> </table>
-
-🐍 Contribution Graph (Snake Style)
-<!-- Snake animation -->
-<p align="left">
-  <img src="https://github.com/saurabhsarate/saurabhsarate/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
-</p>
-
-📊 Profile Metrics (Automated via GitHub Action)
-
-🚀 Featured Projects
-🎮 Super Mario - DevOps Edition
-Classic Mario game deployed with modern DevOps tooling.
-Tech Stack: Docker · Jenkins · AWS EC2 · NGINX · GitHub Actions
-🔗 GitHub Repo
-
-📚 Featured Blogs
-📘 AWS EKS Setup from Scratch
-
-🔍 Digital Domination in IT
-
-📊 Scaling B2B IT Profitably
-
-✨ Fun Facts
-🌌 I cycle at night to clear my head and reflect
-
-📖 I own 200+ books on psychology & philosophy
-
-🧩 I believe curiosity is the best teacher
-
-“The best way to predict the future is to invent it.” — Alan Kay
-
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhsarate&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsarate&layout=compact&theme=radical)
 
 ---
 
-### ✅ Final Steps:
+## 📜 Quote
 
-1. Create a new GitHub repository: `saurabhsarate`
-2. Add a `README.md` file and paste this entire code
-3. Set up:
-   - 🐍 **Snake Graph**: [Instructions here](https://github.com/Platane/snk)
-   - 📊 **GitHub Metrics**: [Instructions here](https://github.com/lowlighter/metrics)
+> “The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.”  
+> — *Edsger W. Dijkstra*
 
-Let me know if you want me to help you set up GitHub Actions for the snake graph or metrics — I can give you that YAML code too.
+---
+
+## 📝 Featured Blogs
+
+- 📘 [AWS EKS Setup from Scratch](#)
+- 🔍 [Digital Domination in IT](#)
+- 📊 [Scaling B2B IT Profitably](#)
+
+---
+
+## 🚀 Projects
+
+### 🎮 Super Mario - DevOps Edition
+
+A classic Mario-style game redeployed with modern DevOps tools.
+
+**🧰 Tech Stack:** Docker · Jenkins · AWS EC2 · NGINX · GitHub Actions
+
+**🔧 Features:**
+- CI/CD Pipeline with Jenkins
+- Dockerized game server
+- Deployment on AWS EC2 with NGINX reverse proxy
