@@ -92,3 +92,21 @@ A classic Mario-style game redeployed with modern DevOps tools.
 - CI/CD Pipeline with Jenkins
 - Dockerized game server
 - Deployment on AWS EC2 with NGINX reverse proxy
+
+## 🖥️ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saurabhsarate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="saurabhsarate-streak-stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhsarate&theme=github_dark" alt="saurabhsarate-summary-card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhsarate&bg_color=0d1117&color=00ff9e&line=00bfff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhsarate&label=Profile%20views&color=brightgreen&style=flat" alt="saurabhsarate-profile-views" />
+</p>
