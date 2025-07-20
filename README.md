@@ -1,82 +1,84 @@
-<!-- Profile Banner -->
-<img src="https://raw.githubusercontent.com/saurabhsarate/saurabhsarate/main/banner.png" alt="DevOps Banner" style="width:100%;"/>
-
-# 👋 Hello there, I'm Saurabh Sarate
-
-🚀 DevOps Enthusiast | ☁️ Cloud Native Learner | 🔄 Automation Explorer
-
-I'm a DevOps Engineer with a passion for building cloud-native, automated, and reliable systems. I enjoy exploring new technologies, simplifying operations, and contributing to clean and scalable infrastructure solutions.
-
----
-
-## 🔧 My Focus Areas
-
-- ⚙️ CI/CD with Jenkins, GitHub Actions  
-- ☁️ AWS Cloud Solutions & Automation  
-- 📦 Dockerizing and Orchestrating with Kubernetes  
-- 📜 Infrastructure as Code with Terraform & Ansible  
-- 🛡️ Linux server management & scripting  
-- 📈 Monitoring & Logging with Prometheus & Grafana  
-
----
-
-## 📌 Currently Working On
-
-- 🎯 Learning advanced Kubernetes cluster security  
-- 🛠️ Building a personal cloud lab using EC2 + Terraform  
-- 🧪 Automating multi-stage Docker pipelines  
-
----
-
-## 🧰 Tech Stack
-
-| DevOps Tools      | Cloud/Infra     | Code & Editors    |
-|-------------------|------------------|--------------------|
-| Jenkins, Ansible, Terraform | AWS, Docker, Kubernetes | Bash, Python, VS Code, Git |
-
----
-
-## 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/your-link/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+<h1 align="center">Hi 👋, I'm Saurabh Sarate</h1>
+<p align="center">
+  💻 Passionate DevOps Engineer | ☁️ Cloud Enthusiast | 🔄 Automation Lover
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 🧑‍💻 About Me
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhsarate&show_icons=true&theme=github_dark" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsarate&layout=compact&theme=github_dark" />
-
----
-
-## 🧠 My Learning Blog
-
-- ✍️ [Kubernetes Architecture Demystified](https://your-blog-link.com)
-- 🐳 [Understanding Docker Compose for Microservices](https://your-blog-link.com)
-- ☁️ [Deploying a Flask App on AWS EC2](https://your-blog-link.com)
+Hi, I'm **Saurabh Sarate**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications.  
+I'm always eager to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 ---
 
-## 🎮 Fun Side Projects
-
-- 🕹️ **Super Mario Clone** (HTML5 + JS)  
-- 📦 **AWS Cost Tracker Script** (Bash + AWS CLI)  
-- ⚡ **Auto Resume Builder CLI** (Python script)
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/your-link)
 
 ---
 
-## 💡 Favorite Quote
-
-> _"Simplicity is the soul of efficiency."_  
-> — Austin Freeman
+## 🛠️ Tools & Technologies:
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-5C4EE5?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+</p>
 
 ---
 
-### 🖱️ Thanks for visiting!
+## 📊 GitHub Stats:
 
-_⚡ Let's automate the future together!_
+![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhsarate&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsarate&layout=compact&theme=radical)
 
+---
+
+## 📚 Latest Blog Posts
+
+- [Breaking Down Kubernetes: Architecture for Newbies](https://your-blog-link.com)
+- [Boost Docker Networking Skills](https://your-blog-link.com)
+- [AWS S3 Storage Strategy](https://your-blog-link.com)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 [Project Super Mario](https://github.com/your-user/project-super-mario)
+A nostalgic 2D platformer built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Classic platformer gameplay  
+- Obstacle and player interactions  
+- Scoring system and animations
+
+---
+
+> _"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." — Edsger W. Dijkstra_
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabhsarate&theme=react-dark)
+
+---
+
+## ✅ Tips:
+
+- Replace `saurabhsarate` with your actual GitHub username wherever it appears in URLs.
+- For shields/badges, visit [Shields.io](https://shields.io/) for custom styles.
+- Host blog posts on [Hashnode](https://hashnode.com), [Dev.to](https://dev.to), or your own site and link them here.
+- Add images to your repo for visuals (like the DevOps loop you showed).
+
+---
+
+Would you like me to generate a full `README.md` file for you to directly upload?
