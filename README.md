@@ -39,13 +39,9 @@ Always ready to collaborate, learn, and share knowledge with the community.
 ---
 
 
-<img src="https://raw.githubusercontent.com/DevopsEngineerMuhammad/DevopsEngineerMuhammad/main/devops-pipeline.gif" width="100%" alt="DevOps Pipeline Animation"/>
-
-
-
-
-
-
+<p align="center">
+  <img src="./devops-pipeline.gif" width="100%" alt="DevOps Pipeline Animation" />
+</p>
 
 
 
