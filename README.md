@@ -61,7 +61,7 @@ Currently leveling up my skills through a DevOps course while actively building 
 
 - [LinkedIn](https://www.linkedin.com/in/saurabh-sarate-6507a5230)
 - [Twitter (X)](https://x.com/saurabhsarate01?s=21)
-- 📫 Email: `saurabhsarate.work@gmail.com`
+- 📫 Email: `saurabhsarate357@gmail.com`
 
 ---
 
