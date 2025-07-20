@@ -13,8 +13,8 @@ I'm always eager to learn new technologies, collaborate with talented people, an
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabh-sarate-6507a5230/)  
+[![Twitter](https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=instagram)](https://x.com/saurabhsarate01?s=21)
 
 ---
 
