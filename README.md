@@ -38,7 +38,44 @@ Always ready to collaborate, learn, and share knowledge with the community.
 
 ---
 
-<img src="https://raw.githubusercontent.com/RahulSinha9/RahulSinha9/main/devOps.gif" width="100%" />
+<!-- DevOps Animated GIF Slider -->
+<div align="center">
+  <style>
+    @keyframes slide {
+      0%, 16%   { transform: translateX(0%); }
+      20%, 36%  { transform: translateX(-100%); }
+      40%, 56%  { transform: translateX(-200%); }
+      60%, 76%  { transform: translateX(-300%); }
+      80%, 96%  { transform: translateX(-400%); }
+      100%      { transform: translateX(0%); }
+    }
+    .slider {
+      width: 100%;
+      max-width: 800px;
+      overflow: hidden;
+    }
+    .slides {
+      display: flex;
+      width: 500%;
+      animation: slide 30s infinite;
+    }
+    .slides img {
+      width: 100%;
+      flex-shrink: 0;
+      object-fit: contain;
+    }
+  </style>
+  <div class="slider">
+    <div class="slides">
+      <img src="https://raw.githubusercontent.com/RahulSinha9/RahulSinha9/main/devOps.gif" alt="DevOps Infinity Loop" />
+      <img src="https://raw.githubusercontent.com/roshanrahman/GIFs/main/devops.gif" alt="CI/CD Pipeline Animation" />
+      <img src="https://raw.githubusercontent.com/roshanrahman/GIFs/main/ai-dev.gif" alt="AI DevOps Animation" />
+      <img src="https://raw.githubusercontent.com/roshanrahman/GIFs/main/coding-dark.gif" alt="Dark Mode Coding" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Terminal Typing" />
+    </div>
+  </div>
+</div>
+
 
 
 
