@@ -89,16 +89,79 @@ Currently leveling up my skills through a DevOps course while actively building 
 
 ## 🚀 Projects
 
-### 🎮 Super Mario - DevOps Edition
+## 🚀 Featured Projects
 
-A classic Mario-style game redeployed with modern DevOps tools.
+### 🎮 Super Mario Reimagined  
+A modern take on the classic Super Mario game designed to explore core concepts in 2D game development.
 
-**🧰 Tech Stack:** Docker · Jenkins · AWS EC2 · NGINX · GitHub Actions
+**Tech Stack:** HTML5, CSS3, JavaScript  
+**Highlights:**  
+- Interactive 2D platformer mechanics  
+- Responsive player controls and enemy collision  
+- Real-time animations and scoring logic  
 
-**🔧 Features:**
-- CI/CD Pipeline with Jenkins
-- Dockerized game server
-- Deployment on AWS EC2 with NGINX reverse proxy
+---
+
+### 🛡️ InsureMe – Insurance Dashboard  
+An end-to-end insurance management system to streamline policy tracking and claim processing.
+
+**Frontend:** React.js  
+**Backend:** Node.js & Express.js  
+**Database:** MongoDB  
+**Key Features:**  
+- Secure login with user role management  
+- Policy issuance and lifecycle management  
+- Real-time analytics for claims and customer insights  
+
+---
+
+### ☁️ Angular on AWS – Serverless Web Hosting  
+A production-ready Angular application hosted using AWS services for global delivery and scalability.
+
+**Stack Used:** Angular, AWS S3, Route 53, CloudFront  
+**Core Features:**  
+- Static hosting via S3  
+- Custom domain setup using Route 53  
+- Accelerated content delivery through CloudFront CDN  
+
+---
+
+### 📘 Student Portal App  
+A full-featured platform to manage student data including academic performance and profile management.
+
+**Tech Stack:** Angular (Frontend), Spring Boot (Backend)  
+**Features:**  
+- Full CRUD operations for student data  
+- Responsive UI for all device types  
+- Admin/student role segregation for secure access  
+
+---
+
+### 🏛️ 3-Tier Student Management System  
+An enterprise-grade student system structured in a 3-tier architecture and deployed on AWS.
+
+**Architecture:**  
+- **Frontend:** Angular  
+- **Backend:** Spring Boot  
+- **Database:** MySQL  
+**Highlights:**  
+- Load-balanced deployment for high availability  
+- REST APIs with secure integration  
+- Scalable backend with centralized DB  
+
+---
+
+### 🎬 Netflix UI Clone  
+A replica of Netflix’s user interface featuring movie browsing and genre-based categorization using TMDB API.
+
+**Built With:** React.js, TMDB API  
+**Functionality Includes:**  
+- Genre-wise movie listing  
+- Responsive layout mimicking modern OTT platforms  
+- Clean UI/UX design for seamless user experience  
+
+
+  
 
 ## 🖥️ Contribution Activity
 
